@@ -1,5 +1,5 @@
 <meta>
-	<info author="Ma5ter" name="Airportsystem" version="1.0" type="script" />
+	<info author="Ma5ter" name="Airport_system" version="1.0" type="script" />
 	<script src="client.lua" type="client" />
 	<script src="server.lua" type="server" />
 </meta>
